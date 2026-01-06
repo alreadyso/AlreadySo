@@ -1,0 +1,6 @@
+# Sparkle signing tools (downloaded automatically)
+.sparkle-tools/
+
+# macOS
+.DS_Store
+
